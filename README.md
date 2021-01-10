@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 <p>
   <a href="https://www.linkedin.com/in/famil-familzade-ab6422134"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=familfamilzade&theme=onedark&show_icons=true&count_private=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=familfamilzade&show_icons=true&count_private=true&theme=onedark">
